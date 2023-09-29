@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc urningsaps.a CMakeFiles/urningsaps.dir/src/utils.cpp.o CMakeFiles/urningsaps.dir/src/item_selection.cpp.o CMakeFiles/urningsaps.dir/src/model.cpp.o CMakeFiles/urningsaps.dir/src/paired_update.cpp.o CMakeFiles/urningsaps.dir/src/urnings_factory.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib urningsaps.a

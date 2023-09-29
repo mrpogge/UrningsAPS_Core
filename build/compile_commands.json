@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/urningsaps.dir/src/utils.cpp.o -c \"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/utils.cpp\"",
+  "file": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/utils.cpp",
+  "output": "CMakeFiles/urningsaps.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/urningsaps.dir/src/item_selection.cpp.o -c \"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/item_selection.cpp\"",
+  "file": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/item_selection.cpp",
+  "output": "CMakeFiles/urningsaps.dir/src/item_selection.cpp.o"
+},
+{
+  "directory": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/urningsaps.dir/src/model.cpp.o -c \"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/model.cpp\"",
+  "file": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/model.cpp",
+  "output": "CMakeFiles/urningsaps.dir/src/model.cpp.o"
+},
+{
+  "directory": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/urningsaps.dir/src/paired_update.cpp.o -c \"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/paired_update.cpp\"",
+  "file": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/paired_update.cpp",
+  "output": "CMakeFiles/urningsaps.dir/src/paired_update.cpp.o"
+},
+{
+  "directory": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I\"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/include\" -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -o CMakeFiles/urningsaps.dir/src/urnings_factory.cpp.o -c \"/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/urnings_factory.cpp\"",
+  "file": "/Users/bencegergely/Documents/ELTE_PHD/Articles/Urnings/Journal of Statistical Software/UrningsAPS/main/src/urnings_factory.cpp",
+  "output": "CMakeFiles/urningsaps.dir/src/urnings_factory.cpp.o"
+}
+]
